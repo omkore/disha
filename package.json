@@ -1,0 +1,23 @@
+{
+  "name": "disha",
+  "version": "1.0.0",
+  "description": "backend for ims",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omkore/disha.git"
+  },
+  "author": "omkore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omkore/disha/issues"
+  },
+  "homepage": "https://github.com/omkore/disha#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.2"
+  }
+}
